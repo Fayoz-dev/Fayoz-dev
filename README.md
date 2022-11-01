@@ -1,5 +1,5 @@
 <h1 align="center">Fayoz - The PHP Master - Rasulov</h1>
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+ Hi Fayoz! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 - :computer: I'm currently working on Laravel 
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
